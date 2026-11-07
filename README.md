@@ -8,6 +8,9 @@ For the ferromagnetic three-state Potts channel on the $d$-ary tree, reconstruct
 $d\lambda^2>1$, for every $d\ge2$. Here $\lambda$ is the second eigenvalue of the channel. Sly proved that
 the bound is sharp for all sufficiently large $d$; the paper covers every degree.
 
+The four-state case on the binary tree is treated in a separate paper, with its own code, at
+https://github.com/yspennstate/potts-four-state-binary-tree.
+
 ## Contents
 
 - `paper/q3/main.tex`, `paper/q3/main.pdf`: the paper.
